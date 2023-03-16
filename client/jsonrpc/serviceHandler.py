@@ -1,6 +1,5 @@
 
 """
-  Copyright (c) 2007 Jan-Klaas Kollhof
 
   This file is part of jsonrpc.
 
